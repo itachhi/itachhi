@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lokesh Khurana.
 - 👀 I have completed my B.Tech in Computer Science from Amity University, Noida.
 - 🌱 I’m currently learning Data Science, Machine Learning and Blockchain. I have published two research papers in the field of Deep Learning and Machine Learning.
-- 💞️ I’m looking to collaborate on various interesting projects on the field of Machine Learning and Data Science.
+- 💞️ I’m looking to collaborate on various interesting projects in the field of Machine Learning and Data Science.
 - 📫 You can reach me through my LinkedIN profile: https://www.linkedin.com/in/lokesh-khurana-176515186/
 Hoping to contribute with you in various amazing projects.
 
